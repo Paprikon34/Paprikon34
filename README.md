@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paprikon34
-- 👀 I’m interested in cheats and games 
-- 🌱 I’m currently learning how to make my owne pokemon game
-- 📫 How to reach me: my email is patrikmichaelbalog@gmail.com ore use my phone nuber 792 375 826
+- 👀 I’m interested in cheats, games and im a begginer programer
+- 🌱 I’m currently learning how use QT and I whant to make my own app for windows
+- 📫 How to reach me: my email is patrikmichaelbalog@gmail.com ore use my phone nuber +420 792 375 826 and my discor is patron._.3
 - ⚡ Fun fact: i like boobs
 
 <!---
