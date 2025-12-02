@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Paprikon34
-- 👀 I’m interested in cheats, games and im a begginer programer
-- 🌱 I’m currently learning how use QT and I whant to make my own app for windows
+- 👋 Hi, I’m @Patrik Michael Balog
+- 👀 I’m interested in python, c++, Qt adn godot 
+- 🌱 I’m currently learning how use QT and c++ and I whant to make my own app for windows
 - 📫 How to reach me: my email is patrikmichaelbalog@gmail.com ore use my phone nuber +420 792 375 826 and my discord is patron._.3
 - ⚡ Fun fact: i like boobs
 
