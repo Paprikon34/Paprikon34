@@ -72,12 +72,23 @@ color = (ACCENT[0]+20, ACCENT[1]+20, ACCENT[2]+20) if is_hovered else CARD_BG
 3. **Cíl**: Získejte co nejvyšší skóre. Skóre se ukládá po dobu běhu programu.
 4. **Ukončení**: Zavřete okno křížkem v horním rohu.
 
-## 5. Správa aktiv
-Obrázky jsou uloženy v podsložce `assets`. Pokud by soubor chyběl (např. smazání uživatelem), kód obsahuje **fallback mechanismus**:
+## 5. Správa aktiv a cest
+Obrázky jsou uloženy v podsložce `assets`. Aby program fungoval správně i po přesunu do jiné složky, používáme **dynamické určování absolutní cesty**:
+
+```python
+# Získání absolutní cesty k adresáři, kde se nachází tento skript
+base_dir = os.path.dirname(os.path.abspath(__file__))
+# Dynamické sestavení cesty k obrázku
+path = os.path.join(base_dir, "assets", f"{choice}.png")
+```
+
+Pokud by soubor přesto chyběl (např. smazání uživatelem), kód obsahuje **fallback mechanismus**:
 ```python
 if os.path.exists(path):
-    # Načtení reálného obrázku
+    img = pygame.image.load(path).convert_alpha()
 else:
-    # Dynamické vytvoření barevného kruhu jako náhrady
+    # Dynamické vytvoření barevného kruhu jako náhrady, aby program nespadl
+    surf = pygame.Surface((100, 100), pygame.SRCALPHA)
+    pygame.draw.circle(surf, ACCENT, (50, 50), 40)
 ```
-To zajišťuje, že program nespadne s chybou `FileNotFoundError`, ale zůstane funkční i v omezeném režimu.
+Toto řešení zajišťuje maximální stabilitu aplikace (program nespadne s chybou `FileNotFoundError`) a přenositelnost mezi různými počítači/adresáři.
