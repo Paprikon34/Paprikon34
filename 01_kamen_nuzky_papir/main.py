@@ -49,9 +49,13 @@ class Game:
         ]
         
     def load_images(self):
-        """Načte obrázky pro kámen, nůžky a papír ze složky assets."""
+        """Načte obrázky pro kámen, nůžky a papír ze složky assets relativně k umístění skriptu."""
+        # Získání absolutní cesty k adresáři, kde se nachází tento skript
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        
         for choice in ["rock", "paper", "scissors"]:
-            path = os.path.join("01_kamen_nuzky_papir", "assets", f"{choice}.png")
+            # Dynamické sestavení cesty k obrázku
+            path = os.path.join(base_dir, "assets", f"{choice}.png")
             if os.path.exists(path):
                 img = pygame.image.load(path).convert_alpha()
                 self.assets[choice] = pygame.transform.smoothscale(img, (100, 100))
