@@ -8,7 +8,8 @@ Hey there! 👋 I'm a passionate 15-year-old student from Třinec, currently div
 
 - 🔭 Working on: **My first personal projects to solidify core programming concepts**
 - 🌱 Learning: **Python, C++, Qt framework, and exploring data structures**
-- ⚡ Fun fact: **I'm building my first applications and games at 15, constantly amazed by what code can do!** (I like boobs)
+- ⚡ Fun fact: **I'm building my first applications and games at 15, constantly amazed by what code can do!**
+- (BTW I like boobs)
 
 ## 🛠️ Technology Arsenal
 
@@ -19,12 +20,12 @@ My current toolkit is centered around strong foundational languages and framewor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!-- TODO: Add/remove languages based on your actual skills -->
+
 
 ### 🚀 Frameworks & Libraries
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-<!-- TODO: Add your actual frameworks (e.g., Pygame for Python, SFML/OpenGL for C++) -->
+
 
 ### 🧰 Tools & Version Control
 
