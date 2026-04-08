@@ -37,13 +37,6 @@ My current toolkit is centered around strong foundational languages and framewor
 
 ## 📊 GitHub Analytics Dashboard
 
-My GitHub profile is a reflection of my learning journey and growth as a developer.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paprikon34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paprikon34&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paprikon34&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
