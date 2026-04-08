@@ -52,8 +52,6 @@ My current toolkit is centered around strong foundational languages and framewor
 
 ### 🔥 [SimpleQtApp](https://github.com/Paprikon34/Trying-QT)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Paprikon34&repo=REPO_NAME&theme=tokyonight)](https://github.com/Paprikon34/REPO_NAME) <!-- TODO: Replace REPO_NAME with an actual Qt/C++ repo -->
-
 **Tech Stack:** C++ • Qt Framework
 **Status:** 🚀 Learning Phase | ⭐ 3+ Stars | 🍴 1+ Forks
 *Exploring GUI development with Qt, building a basic desktop application to understand layouts, widgets, and event handling in C++.*
