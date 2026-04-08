@@ -50,7 +50,7 @@ My current toolkit is centered around strong foundational languages and framewor
 
 ## 🏗️ Featured Projects
 
-### 🔥 [SimpleQtApp](https://github.com/Paprikon34/REPO_NAME) <!-- TODO: Replace with actual project -->
+### 🔥 [SimpleQtApp](https://github.com/Paprikon34/Trying-QT)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Paprikon34&repo=REPO_NAME&theme=tokyonight)](https://github.com/Paprikon34/REPO_NAME) <!-- TODO: Replace REPO_NAME with an actual Qt/C++ repo -->
 
