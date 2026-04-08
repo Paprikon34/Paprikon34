@@ -2,7 +2,7 @@ Paprikon34/README.txt
 # 👨‍💻 Patrik Michael Balog | Aspiring Developer
 ### 🚀 Building foundations, exploring new horizons
 
-Hey there! 👋 I'm a passionate 15-year-old student from Třinec, currently diving deep into the world of programming at Třinecká Obchodní Akademie Informačních Technologií a Veřejné Správy (Tria). My journey in tech is just beginning, and I'm incredibly excited to learn, build, and contribute. I love tackling new challenges and turning ideas into code, constantly expanding my skills in various languages and frameworks.
+Hey there! 👋 I'm a passionate 16-year-old student from Třinec, currently diving deep into the world of programming at Třinecká Obchodní Akademie Informačních Technologií a Veřejné Správy (Tria). My journey in tech is just beginning, and I'm incredibly excited to learn, build, and contribute. I love tackling new challenges and turning ideas into code, constantly expanding my skills in various languages and frameworks.
 
 ## 🎯 Current Focus
 
@@ -69,11 +69,10 @@ My current toolkit is centered around strong foundational languages and framewor
 ## 🌐 Connections
 
 <div align="center">
-📱Discord - patron._.3
+📱 Discord - patron._.3
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrikmichaelbalog@gmail.com) <!-- TODO: Add your primary email address -->
 
-### 📱 Social Presence
 
 [![GitHub followers](https://img.shields.io/github/followers/Paprikon34?style=social)](https://github.com/Paprikon34)
 
