@@ -48,26 +48,7 @@ My current toolkit is centered around strong foundational languages and framewor
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Paprikon34" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
-<!--END_SECTION:activity-->
-
 ## 🏗️ Featured Projects
-
-Here are a few projects I'm working on or have completed, showcasing my learning and application of various technologies.
-
-<div align="center">
-
-### 🌟 [MyPythonCLI](https://github.com/Paprikon34/REPO_NAME) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Paprikon34&repo=REPO_NAME&theme=tokyonight)](https://github.com/Paprikon34/REPO_NAME) <!-- TODO: Replace REPO_NAME with an actual Python repo -->
-
-**Tech Stack:** Python • argparse • Click
-**Status:** 🚧 In Development | ⭐ 5+ Stars | 🍴 2+ Forks
-*A command-line interface tool built with Python to automate common tasks, focusing on clean code and user experience.*
-
----
 
 ### 🔥 [SimpleQtApp](https://github.com/Paprikon34/REPO_NAME) <!-- TODO: Replace with actual project -->
 
