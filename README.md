@@ -1,3 +1,4 @@
+Paprikon34/README.txt
 # 👨‍💻 Patrik Michael Balog | Aspiring Developer
 ### 🚀 Building foundations, exploring new horizons
 
@@ -108,4 +109,3 @@ Here are a few projects I'm working on or have completed, showcasing my learning
 [![GitHub followers](https://img.shields.io/github/followers/Paprikon34?style=social)](https://github.com/Paprikon34)
 
 </div>
-
