@@ -34,6 +34,8 @@ My current toolkit is centered around strong foundational languages and framewor
 
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
 ## 📊 GitHub Analytics Dashboard
 
 ### 📈 Contribution Activity
