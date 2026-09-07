@@ -8,7 +8,7 @@ Hey there! 👋 I'm a passionate 16-year-old student from Třinec, currently div
 
 - 🔭 Working on: **My first personal projects to solidify core programming concepts**
 - 🌱 Learning: **Python, C++, Qt framework, AI agent, and exploring data structures**
-- ⚡ Fun fact: **Ive build my first app at the  age of 14 and im learnning coding since I was 10, curently im 16 years old**
+- ⚡ Fun fact: **Ive build my first app at the  age of 14 and im learnning coding since I was 10,**
 
 ## 🛠️ Technology Arsenal
 
