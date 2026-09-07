@@ -7,7 +7,7 @@ Hey there! 👋 I'm a passionate 16-year-old student from Třinec, currently div
 ## 🎯 Current Focus
 
 - 🔭 Working on: **My first personal projects to solidify core programming concepts**
-- 🌱 Learning: **Python, C++, Qt framework, and exploring data structures**
+- 🌱 Learning: **Python, C++, Qt framework, AI agent, and exploring data structures**
 - ⚡ Fun fact: **I'm building my first applications and games at 16, constantly amazed by what code can do!**
 - (BTW I like boobs)
 
